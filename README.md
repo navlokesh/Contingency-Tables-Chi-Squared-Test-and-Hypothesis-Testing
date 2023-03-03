@@ -67,11 +67,10 @@ There are three numerical (continuous) variables in the data set, Salary, Spendi
 #### Alternate hypothesis : Variable do not follow normal distribution
 Using the normaltest function from scipy.stats, we can get the P value
 From the P values, we can say that:
-A.
-For the variable Salary, we fail to reject the null hypothesis as the P value (14.6%) is greater than alpha(5%). Hence, the variable Salary follows a normal distribution.
-B.
-For the variable Spending, we reject the null hypothesis as there is enough evidence to say that the variable Spending doesn't follow normal distribution. The P value (0.0000238%) is less than alpha(5%). Hence, the variable Spending doesn not follow a normal distribution.
-C.
-For the variable Text Messages, we reject the null hypothesis as there is enough evidence to say that the variable Spending doesn't follow normal distribution. The P value (0.028%) is less than alpha(5%). Hence, the variable Spending doesn not follow a normal distribution.
+A.For the variable Salary, we fail to reject the null hypothesis as the P value (14.6%) is greater than alpha(5%). Hence, the variable Salary follows a normal distribution.
+
+B.For the variable Spending, we reject the null hypothesis as there is enough evidence to say that the variable Spending doesn't follow normal distribution. The P value (0.0000238%) is less than alpha(5%). Hence, the variable Spending doesn not follow a normal distribution.
+
+C.For the variable Text Messages, we reject the null hypothesis as there is enough evidence to say that the variable Spending doesn't follow normal distribution. The P value (0.028%) is less than alpha(5%). Hence, the variable Spending doesn not follow a normal distribution.
 
 

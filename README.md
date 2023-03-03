@@ -1,4 +1,4 @@
-# Contingency-Tables-Chi-Squared-Test-and-Hypothesis-Testing
+# Contingency Tables, Chi-Squared Test and Hypothesis-Testing
 
 
 
